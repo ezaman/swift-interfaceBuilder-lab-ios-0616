@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8" : 0,
+    "0CD4FEBA225D76FA18CA02B80526004C1FE135C5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F18ACC1F-F533-45EC-AFC7-A28DA7BE208C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8" : "autolayout-textview-ios-0616\/",
+    "0CD4FEBA225D76FA18CA02B80526004C1FE135C5" : "autolayout-textview-ios-0616\/SimonSays\/SimonSays\/swift-interfaceBuilder-lab-ios-0616\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SimonSays",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SimonSays\/SimonSays.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:learn-co-students\/swift-interfaceBuilder-lab-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0CD4FEBA225D76FA18CA02B80526004C1FE135C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ezaman\/autolayout-textview-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8"
+    }
+  ]
+}
